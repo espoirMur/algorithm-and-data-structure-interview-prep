@@ -9,8 +9,41 @@ Another resource is this [one](https://www.linkedin.com/pulse/interviewing-googl
 
 Another book is cracking the code interview can be found anywhere on the internet.
 
-Day 1 and Day 2 : 
+
+## Day 1 and Day 2 : 
 
 I will be doing a research on how the google interview goes, I will be preparing for the google one because it's the best company any one can dream about it's like playing in a top team in premier league, Manchester City. If you can pass the google interview you can pass any other company interview.
+
 [Here](http://hbcuconnect.com/ads/google/GoogleSE.pdf) are tips from google.
-There is another video showing how a [google interview goes](https://www.youtube.com/watch?v=XKu_SEDAykw&authuser=0) and [how to prepare](https://www.youtube.com/watch?v=6ZZX9iIgFoo&t=0s&authuser=0)
+There is another video showing how a [google interview goes](https://www.youtube.com/watch?v=XKu_SEDAykw&authuser=0) and [how to prepare](https://www.youtube.com/watch?v=6ZZX9iIgFoo&t=0s&authuser=0) for a google interview.
+
+https://qr.ae/TWFiLX
+
+### Day 1 Take away:
+- Ask for clarifications, tell your plans (Real engineering problems )
+- Think out loud about your solution and give your thought 
+- Think about everything before writing them down.
+- Test your code in the real time (Not unit test) test the code about agiainst the example
+Try out edge cases.
+
+
+Don't have to start with the best algorithms, iterating can be part of the process:
+
+![This picture](pictures/topics.png) Shows algorithms typically used during the interviews.
+
+Choose a language you are comfortable with they know if you are comfortable with one language you can learn another.
+They don't have to confuse you with programming languages trivias. 
+
+Test test and test, know how to handle malformed inputs.
+
+Practice on code and paper....
+
+That all for today...
+
+See you on day 2
+
+
+
+
+## Benchmark yourself (days 3–5)
+
