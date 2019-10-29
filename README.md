@@ -42,8 +42,34 @@ That all for today...
 
 See you on day 2
 
+### Day 2
 
+Lost track for the project and end up spending 4 days but including weekend without working on his project. 
 
+The good thing today is that the study plan is already made , the remaining steps are knowns let share the a list of stuffs I have to learn here.
+
+It was taken from the book cracking the code interview:
+
+| Topic | Category| Difficulty | Date Started | Date completed | Observation|
+| -------- |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| Linked Lists | Data Structures | Medium | 28/10/2019 | 28/10/2019 | Nothing |
+| Binary Trees | Data Structures | Medium |  |  | |
+| Tries | Data Structures | Medium |  |  | |
+| Stacks| Data Structures | Medium |  |  | |
+| Queues | Data Structures | Medium |  |  | |
+| Vector / ArrayLists | Data Structures | Medium |  |  | |
+| HashTables | Data Structures | Medium |  |  | |
+| Breadth First Search | Algorithms | Medium |  |  | |
+| Deep First Search | Algorithms | Medium |  |  | |
+| Binary Search | Algorithms | Medium |  |  | |
+| Merge Sort | Algorithms | Medium |  |  | |
+| Quick Sort | Algorithms | Medium |  |  | |
+| Other Sorting  | Algorithms | Medium |  |  | |
+| Tree insert | Algorithms | Medium |  |  | |
+| Bit Manipulation | Concepts | Medium |  |  | |
+| Recursion | Concepts | Hard |  |  | |
+| Big O Notation | Concepts | Easy |  |  | |
 
 ## Benchmark yourself (days 3–5)
+
 
