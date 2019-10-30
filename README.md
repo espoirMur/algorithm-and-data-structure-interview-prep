@@ -57,6 +57,7 @@ It was taken from the book cracking the code interview:
 | Tries | Data Structures | Medium |  |  | |
 | Stacks| Data Structures | Medium |  |  | |
 | Queues | Data Structures | Medium |  |  | |
+| Heap | Data Structures | Medium |  |  | |
 | Vector / ArrayLists | Data Structures | Medium |  |  | |
 | HashTables | Data Structures | Medium |  |  | |
 | Breadth First Search | Algorithms | Medium |  |  | |
@@ -69,7 +70,20 @@ It was taken from the book cracking the code interview:
 | Bit Manipulation | Concepts | Medium |  |  | |
 | Recursion | Concepts | Hard |  |  | |
 | Big O Notation | Concepts | Easy |  |  | |
+| Dynamic Programing | Concepts | Easy |  |  | |
+
 
 ## Benchmark yourself (days 3–5)
 
 
+### Day 3 : Find The Kth Smallest/Largest Integer In An Array
+
+Today I found [another resource](https://dev.to/seattledataguy/the-interview-study-guide-for-software-engineers-764) I bookmarked a some days ago, I lead me to [this spreadsheet](https://docs.google.com/spreadsheets/d/1cDnPdd45X2edeSF1l6WYWqmvPeKy1__uAbfKUlb2U6s/edit?usp=sharing) where I will tracking my progress.
+
+I worked on the problem which was about finding the kth smallest/largest integer in an array
+
+I manage to get a working solution but with nlog(n) time , it could be improved to a better solution with n runtime.
+
+The improvement will require me to understand *Heap Data Structure* and *Quick Sort Algorithms*
+
+The notebook generated for this problem can be found [here](./notebooks/smallest_item_in_an_array.ipynb)
