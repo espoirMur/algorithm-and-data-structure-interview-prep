@@ -87,3 +87,13 @@ I manage to get a working solution but with nlog(n) time , it could be improved 
 The improvement will require me to understand *Heap Data Structure* and *Quick Sort Algorithms*
 
 The notebook generated for this problem can be found [here](./notebooks/smallest_item_in_an_array.ipynb)
+
+
+### Day 4 learning about quick sort 
+
+Ressources :
+
+- https://www.youtube.com/watch?v=SLauY6PpjW4&feature=youtu.be
+- https://www.youtube.com/watch?v=uXBnyYuwPe8
+- https://dev.to/vaidehijoshi/pivoting-to-understand-quicksort-part-1
+- https://dev.to/vaidehijoshi/pivoting-to-understand-quicksort-part-2
