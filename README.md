@@ -63,7 +63,7 @@ It was taken from the book cracking the code interview:
 | Breadth First Search | Algorithms | Medium |  |  | |
 | Deep First Search | Algorithms | Medium |  |  | |
 | Binary Search | Algorithms | Medium |  |  | |
-| Merge Sort | Algorithms | Medium |  |  | |
+| Merge Sort | Algorithms | Medium |  30/10/2019| 30/10/2019  | Completed well and blog post written |
 | Quick Sort | Algorithms | Medium |  |  | |
 | Other Sorting  | Algorithms | Medium |  |  | |
 | Tree insert | Algorithms | Medium |  |  | |
@@ -93,7 +93,15 @@ The notebook generated for this problem can be found [here](./notebooks/smallest
 
 Ressources :
 
-- https://www.youtube.com/watch?v=SLauY6PpjW4&feature=youtu.be
-- https://www.youtube.com/watch?v=uXBnyYuwPe8
-- https://dev.to/vaidehijoshi/pivoting-to-understand-quicksort-part-1
-- https://dev.to/vaidehijoshi/pivoting-to-understand-quicksort-part-2
+- [First Video](https://www.youtube.com/watch?v=SLauY6PpjW4&feature=youtu.be)
+- [Second Video](https://www.youtube.com/watch?v=uXBnyYuwPe8)
+- [Vaidehi Blog Post 1](https://dev.to/vaidehijoshi/pivoting-to-understand-quicksort-part-1)
+- [Vaidehi Blog Post 2](https://dev.to/vaidehijoshi/pivoting-to-understand-quicksort-part-2)
+
+This day everything went well, I learned a lot and I manage to get an understand of the quicksort algorithm. The remaining step is now to understand the math behind the big o notation calculation especially when we have a recursive solution.
+
+Results : [Quick Sort Algorithm Example](./algorithms-notes/quicksort.md)
+          [Quick Sort Algorithm Notebook Implementation](./notebooks/QuickSort.ipynb)
+
+
+Next topics : *How we calculate the big O notation for a part of code*
