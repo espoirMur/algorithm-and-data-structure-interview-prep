@@ -105,3 +105,24 @@ Results : [Quick Sort Algorithm Example](./algorithms-notes/quicksort.md)
 
 
 Next topics : *How we calculate the big O notation for a part of code*
+
+### Day 5 learned about big O notation
+
+#### Part A:
+
+Today , I started by reading about big o notation and I found that am familiar with them and the logic behind b o notation was quite clear, 
+I watch video explaining [asymptotic bound](https://www.youtube.com/watch?v=0oDAlMwTrLo), [asymptotic analysis](https://www.youtube.com/watch?v=myZKhztFhzE) and [logarithmic analysis](https://www.youtube.com/watch?v=M4ubFru2O80) and after watching those videos most of those concepts was clear.
+
+Another resource I found useful was [this blog post ](http://discrete.gr/complexity/) where all the big on are explains.
+
+A quick reminder:
+- if we have m nested for loop we have a big o of $n^m$ where m is the number of element
+- if m is the number of elements and we are dividing the space recursively by 2 each time
+for example m/2, m/4, m/8, .... m/1
+We have a big o of $\log(n)$ for example in binary search
+- if after of dividing, for each sub array, we are performing n operations we have a big o of $\nlog(n)$
+Example in merge sort
+- on for loop is n
+
+And *$n!$ >$n^m$  > $2^n$ > $n^2$ > $\nlog(n)$ > n > $\log(n)$ > 1*
+
