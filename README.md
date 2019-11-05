@@ -126,3 +126,16 @@ Example in merge sort
 
 And *$n!$ >$n^m$  > $2^n$ > $n^2$ > $\nlog(n)$ > n > $\log(n)$ > 1*
 
+### Day 6 Another benchmark
+
+- Need to test your algorithms against all weird possibles input
+
+- an array of one element, array of the same element 
+
+it took so many time and thinking to come up with a O(n2) solution  but I spend a lot of time getting it.
+
+key takeway...
+
+The important solution comes when I am not looking into my laptop, 
+
+there is another trick to have a n solution but will look into that tommorow
