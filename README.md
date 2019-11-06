@@ -139,3 +139,5 @@ key takeway...
 The important solution comes when I am not looking into my laptop, 
 
 there is another trick to have a n solution but will look into that tommorow
+
+This lead to another problem Kadame algorithm
