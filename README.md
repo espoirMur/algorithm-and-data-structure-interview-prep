@@ -141,3 +141,24 @@ The important solution comes when I am not looking into my laptop,
 there is another trick to have a n solution but will look into that tommorow
 
 This lead to another problem Kadame algorithm
+
+## Day 7 : 
+
+### Array left Rotation Problem: Another benchmark 
+This was a simple problem solved it in one round without any problem
+
+###  Sum of Even Numbers After Queries
+
+This was tricky , but I solved it after 2 attempts, the first one was a brute force algorithm
+and I manage to improve the brute force algorithm after thinking on pen and paper even without 
+looking to any solution or tutorial , just intuition.
+This was nice and can be consider as a big achievement.
+
+I even forgot to watch a UCL game for this.
+
+Lessons learned:
+- The most difficult CSI problem are not solved in front of the computer, intuition comes away from laptop and the and the best algorithms are designed with pen and paper.
+
+### String making anagram
+
+Skipped this intuiition didin't come
