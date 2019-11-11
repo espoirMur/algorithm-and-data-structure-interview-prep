@@ -86,6 +86,30 @@ A good hash function minimize collision
 
 PS: from what we know, hashing can help us to reduce the number of items we can save, so instead of saving the whole list of items, we can save only indexes generated from the hash function, and can be considered as key fo the hashmap
 
+### [Trees](https://www.freecodecamp.org/news/all-you-need-to-know-about-tree-data-structures-bceacb85490c/)
+
+A tree is an non linear data structure, where data is stored into a hierarchical order.
+For example, a family tree, an organization structure, etc.
+
+From a technical perspective, a tree is a collection of entities called *nodes*.
+Nodes are connected with each others via *edges* , each node contains values and mau or not have children.
+
+The first node is called the root of the tree, the last node without children are called leaves
+
+Edges are important for a tree because it manages relationship between nodes.
+
+*Height* is the length of the longest path to a leaf
+
+*Depth* is the length of the path to its root
+
+### Binary tree
+
+A binary tree is a special type of tree where each node has at most 2 children
+
+### Balanced tree
+
+### Binary search tree
+
 ### Heaps
 
 A heap is a kinda of tree data structure where the root node is less than all the child nodes for a min heap , or greater than the child nodes for max heap.

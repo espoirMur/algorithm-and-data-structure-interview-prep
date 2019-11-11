@@ -164,6 +164,10 @@ Lessons learned:
 Skipped this intuiition didin't come
 
 
-### Week 2 : 
-### Day 8 Tree data Structure , Heaps and Queues, BFS , DFS, Djistra Problem:
+### Week 2 : Tree data Structure , Heaps and Queues, BFS , DFS, Djikstra Problem
 
+### Day 8 
+
+Today we learned about many data structure we use in computer science, I wrote about hashtables, hashing functions and how it works, linked list and I end up writing about trees
+Today's studies notes can be found [here](./data-structures-notes/data-structures-studies-notes.md)
+Tommorow we will go deep into binary search trees, what is a balanced tree, how to balance a tree and the tree algorithms
