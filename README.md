@@ -52,7 +52,7 @@ It was taken from the book cracking the code interview:
 
 | Topic | Category| Difficulty | Date Started | Date completed | Observation|
 | -------- |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| Linked Lists | Data Structures | Medium | 28/10/2019 | 28/10/2019 | Nothing |
+| Linked Lists | Data Structures | Medium | 11/11/2019 | 11/11/2019 | Nothing |
 | Binary Trees | Data Structures | Medium |  |  | |
 | Tries | Data Structures | Medium |  |  | |
 | Stacks| Data Structures | Medium |  |  | |
@@ -63,8 +63,8 @@ It was taken from the book cracking the code interview:
 | Breadth First Search | Algorithms | Medium |  |  | |
 | Deep First Search | Algorithms | Medium |  |  | |
 | Binary Search | Algorithms | Medium |  |  | |
-| Merge Sort | Algorithms | Medium |  30/10/2019| 30/10/2019  | Completed well and blog post written |
-| Quick Sort | Algorithms | Medium |  |  | |
+| Quick Sort | Algorithms | Medium |  30/10/2019| 30/10/2019  | Completed well and blog post written |
+| Merge Sort | Algorithms | Medium |  |  | |
 | Other Sorting  | Algorithms | Medium |  |  | |
 | Tree insert | Algorithms | Medium |  |  | |
 | Bit Manipulation | Concepts | Medium |  |  | |
@@ -163,5 +163,7 @@ Lessons learned:
 
 Skipped this intuiition didin't come
 
+
+### Week 2 : 
 ### Day 8 Tree data Structure , Heaps and Queues, BFS , DFS, Djistra Problem:
 
