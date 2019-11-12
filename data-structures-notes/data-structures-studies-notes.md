@@ -55,7 +55,7 @@ There are many techniques which help to solve collision when 2 hashcode map to t
 
 Hashing is a technique that is used to uniquely identify a specific object from a group of similar objects
 
-[#### A better Explanation](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
+#### [A better Explanation](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
 
 Remember that when looking for an element in an array if we know the position of the element we can perform the operation in a constant time.
 
@@ -102,15 +102,38 @@ Edges are important for a tree because it manages relationship between nodes.
 
 *Depth* is the length of the path to its root
 
-### Binary tree
+#### Binary tree
 
 A binary tree is a special type of tree where each node has at most 2 children
 
-### Balanced tree
+#### Binary search tree
+I a binary tree that follow a specific ordering property.
 
-### Binary search tree
+The left node is less than the root node and less than all the right node.
+By analogy to arrays we can say that a binary search tree is just a sorted tree
+This make search property fast in a binary search tree.
 
-### Heaps
+
+#### Balanced tree
+
+#### Heaps
 
 A heap is a kinda of tree data structure where the root node is less than all the child nodes for a min heap , or greater than the child nodes for max heap.
 Or element in the tree follow just a specific order 
+
+
+### [Graphs](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
+
+A graph is just a collection of nodes, each node may point to another .
+They can be directed or undirected :
+- They are directed is only one path from node A to node B.
+- They are undirected the path that we can travel goes both ways. That is to say, the path between the two nodes is bidirectional, meaning that the origin and destination nodes are not fixed.
+
+Form a mathematic perspective , a graph is just a way to represent a network which is a set of objects that are all interconnected.
+
+#### [Differences between graph and trees](https://freefeast.info/difference-between/difference-between-trees-and-graphs-trees-vs-graphs/)
+
+A graph is different from a tree, a graph doesn't have a root node, there is no such parent child relationship. Any node can have a relationship with any node.
+
+[Trees are nothing more than restricted types of graphs, just with many more rules to follow . A tree will always be a graph, but not all graphs will be trees.](https://medium.com/new-story?inResponseToQuoteId=4776bc537d2d)
+
